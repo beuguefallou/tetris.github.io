@@ -1,5 +1,5 @@
 # Tetris-Basic
-C'est une simple version non absurde de Tetris qui n'a pas de style - faite pour le soutien de ma vidéo Udemy. Également visible [ici]()
+C'est une simple version non absurde de Tetris qui n'a pas de style - faite pour le soutien de ma vidéo Udemy. Également visible [ici](https://tetris.github.io/)
 
 
 Dans ce projet, on a appris comment mettre en place un projet à partir de zéro en utilisant l'éditeur de code Vscode et votre outil d'invite de commande, ainsi que d'acquérir une compréhension fondamentale de JavaScript en construisant votre propre version de Tetris.
